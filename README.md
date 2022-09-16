@@ -64,7 +64,7 @@ You can delete the current file by clicking the **Remove** button in the file ex
 ## Development Lifecycle
 
  1. **Creating Branches**
-	Branches should be created off of the master branch and must be named ONLY "your-name"
+	Branches should be created off of the dev branch and must be named ONLY "your-name"
  2. **Writing Code**
 		Please refer to coding standards
  3. **Writing Commits**
