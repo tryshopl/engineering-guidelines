@@ -56,10 +56,6 @@ All new or updated javascript based code will be reviewed to ensure it conforms 
 
 Whitespace can easily accumulate at the end of a line - avoid this. One way to catch whitespace buildup is enabling visible whitespace characters within your text editor.
 
-### Documentation
-Each repository we make should have a detailed and up to date README file in its root. This is so that every team member can have a clear and concise overview of how to engage with the repository at any given time.
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
 ## Development Lifecycle
 
@@ -81,6 +77,8 @@ You can delete the current file by clicking the **Remove** button in the file ex
 -- Always be sure to stash your local branch if merge conflicts occur
 5. **Code Reviews**
 	Make two passes over the PR if its substantial 
+### Documentation
+Each repository we make should have a detailed and up to date README file in its root. This is so that every team member can have a clear and concise overview of how to engage with the repository at any given time.
 
 # Readme Guidelines
 Each repository should include a README in the root of the directory. The README should be detailed enough that any engineer just starting should have a clear overview of the project and be up to data. 
